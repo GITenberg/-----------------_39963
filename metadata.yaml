@@ -1,0 +1,46 @@
+_repo: '-----------------_39963'
+_version: 0.1.0
+alternative_title: Constitution of the Athenians. Greek
+contributor:
+  translator:
+    agent_name: Zervos, I. (Ioannes)
+    aliases:
+    - Zervos, Ioannes
+    - Zerbos, I. (Ioannes)
+    - Zervos, John
+    - Ζερβός, Ιωάννης
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '34203'
+    url: http://www.gutenberg.org/2009/agents/34203
+covers:
+- cover_type: archival
+  image_path: 39963-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Aristoteles
+    - Αριστοτέλης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aristotle
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39963'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutional history -- Greece -- Athens -- To 146 B.C.'
+- !lcsh 'Athens (Greece) -- Politics and government -- Early works to 1800'
+- !lcc 'JC'
+title: Αθηναίων Πολιτεία
+url: http://www.gutenberg.org/ebooks/39963
